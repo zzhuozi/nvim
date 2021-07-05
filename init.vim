@@ -524,7 +524,7 @@ call plug#end()
 " ===
 set termguicolors " enable true colors support
 
-colorscheme deus
+colorscheme default
 " colorscheme OceanicNext
 
 " let $NVIM_TUI_ENABLE_TRUE_COLOR=1
